@@ -1,0 +1,37 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#b11226"></stop>
+      <stop offset="100%" stop-color="#7a0c18"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Background (transparent) -->
+  <rect width="512" height="512" fill="none"></rect>
+
+  <!-- Letter B -->
+  <path d="
+      M160 80
+      H280
+      C350 80 400 120 400 180
+      C400 220 380 250 350 265
+      C390 280 420 315 420 360
+      C420 430 365 460 290 460
+      H160
+      Z
+
+      M220 140
+      V240
+      H280
+      C315 240 340 220 340 190
+      C340 160 315 140 280 140
+      Z
+
+      M220 300
+      V400
+      H290
+      C330 400 360 375 360 340
+      C360 305 330 300 290 300
+      Z
+    " fill="url(#bGradient)"></path>
+</svg>

@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+
+:root {
+    --bg: #0b0f19;
+    /* background */
+    --fg: #e5e7eb;
+    /* primary text */
+    --muted: #9ca3af;
+    /* secondary text */
+    --accent: #60a5fa;
+    /* links / highlights */
+}
+
+
+body {
+    background-color: var(--bg);
+    color: var(--fg);
+}
+
+.terminal-font {
+    font-family: "JetBrains Mono", monospace;
+}
