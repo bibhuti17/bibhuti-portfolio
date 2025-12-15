@@ -23,10 +23,10 @@ export default function ProjectsGrid() {
                     title="Portfolio Website"
                     description="A personal portfolio website to showcase my projects and skills, built with React and Tailwind CSS."
                     tech={["React", "Tailwind CSS", "JavaScript"]}
-                    link="#"
+                    link="https://bibhuti-portfolio-sigma.vercel.app/"
                 />
 
-                <ProjectCard
+                {/* <ProjectCard
                     title="Project Two"
                     description="Description of another project showcasing backend and API development."
                     tech={["Node.js", "Express", "MongoDB"]}
@@ -38,7 +38,7 @@ export default function ProjectsGrid() {
                     description="A project focused on frontend performance and responsive UI design."
                     tech={["HTML", "CSS", "React"]}
                     link="#"
-                />
+                /> */}
             </div>
         </section>
     );

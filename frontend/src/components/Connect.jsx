@@ -25,7 +25,7 @@ export default function Connect() {
                 </a>
 
                 <a
-                    href="https://linkedin.com/"
+                    href="https://linkedin.com/in/bibhuti17"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-blue-400 transition"
@@ -34,7 +34,7 @@ export default function Connect() {
                 </a>
 
                 <a
-                    href="https://github.com/"
+                    href="https://github.com/bibhuti17"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-white transition"
@@ -43,7 +43,7 @@ export default function Connect() {
                 </a>
 
                 <a
-                    href="https://stackoverflow.com/"
+                    href="https://stackoverflow.com/bibhuti-bhusan-naik"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-orange-400 transition"
@@ -52,7 +52,7 @@ export default function Connect() {
                 </a>
 
                 <a
-                    href="https://reddit.com/"
+                    href="https://reddit.com/bibhuti17"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-orange-500 transition"
@@ -61,7 +61,7 @@ export default function Connect() {
                 </a>
 
                 <a
-                    href="https://x.com/"
+                    href="https://x.com/bibhutibhusan_7"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-sky-400 transition"
